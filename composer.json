@@ -1,5 +1,5 @@
 {
-  "name": "ankurk91/laravel-dedupe-queue",
+  "name": "geega/laravel-dedupe-queue",
   "description": "Prevent duplicate jobs from running in Laravel php framework",
   "keywords": [
     "laravel",
